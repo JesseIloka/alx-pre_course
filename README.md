@@ -1,4 +1,3 @@
 # alx-pre_course
 
-alx sponsred course for software engineers
-for a peroid of 12 months. 
+I'm now a ALX Student, this is my first repository as a full-stack engineer
