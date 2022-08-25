@@ -1,1 +1,3 @@
-My first readme
+ALX pre course 
+
+Software Engineering course
